@@ -17,6 +17,14 @@ body {
 
 
 }
+/* footer text shadow*/
+
+.foottext {
+    background: white;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+
 
 .text-vertical-center {
     display: table-cell;
@@ -69,8 +77,8 @@ hr.small {
 
 .doge {
 
-    height: 40px;
-    width:  40px;
+    height: 55px;
+    width:  55px;
 }
 
 /* page two text */
