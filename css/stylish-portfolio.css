@@ -185,11 +185,14 @@ padding-left: 50px;
     margin: 5px 5px 0 0;
 }
 /* we are professional text */
-.professional {
-    background: transparent;
-    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
-}
+/* text shadow here */
+/* header text */
 
+
+.headertext {
+    text-decoration-color: white;
+
+}
 
 /* Header */
 
@@ -198,7 +201,7 @@ padding-left: 50px;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/home.jpg) no-repeat center center scroll;
+    background: url(../img/wood.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
