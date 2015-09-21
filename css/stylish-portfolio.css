@@ -70,6 +70,9 @@ body {
     background-color: rgba(255,255,255,0.8);
 }
 
+
+
+
 /* professional single word */
 .pro {
     font-family: 'Dancing Script', cursive;
@@ -227,6 +230,8 @@ padding-left: 50px;
 }
 
 
+
+
 /* Page 2 */
 
 .pagetwo {
@@ -234,29 +239,30 @@ padding-left: 50px;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/main.jpg) no-repeat center center scroll;
+    background: url(../img/pagetwo.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+
 }
 
 
-
-/* Page 3 */
+/* page three */
 
 .pagethree {
     display: table;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/typing.jpg) no-repeat center center scroll;
+    background: url(../img/phone.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 
 }
+
 
 
 
@@ -267,23 +273,7 @@ padding-left: 50px;
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/mac.jpeg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-
-
-/* Page 5 */
-
-.pagefive {
-    display: table;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    background: url(../img/Creative.jpg) no-repeat center center scroll;
+    background: url(../img/deliver.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -293,19 +283,6 @@ padding-left: 50px;
 
 
 
-/* Page 6 */
-
-.pagesix {
-    display: table;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    background: url(../img/work.jpeg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
 
 
 
